@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm John Andrei Nicolas (Andrei)
+# 👨‍💻 Hi, I'm Andrei
 
 💼 Software Engineer | 🌐 Full-Stack Developer (Next.js & NestJS Focus)
 
